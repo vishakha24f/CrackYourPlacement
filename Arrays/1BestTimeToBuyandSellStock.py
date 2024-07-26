@@ -9,3 +9,5 @@ class Solution:
                 count= i-min
         return count
         
+
+        
